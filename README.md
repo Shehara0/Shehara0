@@ -9,11 +9,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shehara0&label=Profile%20views&color=0e75b6&style=flat" alt="shehara0" /> </p>
 
-
+<table align="center">
+<tr border="none">
+<td width="100%" align="left">
 
 - 🌱 I’m currently learning **Spring boot api**
 
 - 📫 How to reach me **sheharasiriwardana21@gmail.com**
+
+</td>
+<td width="100%" align="center">
+</tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

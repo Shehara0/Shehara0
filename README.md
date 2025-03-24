@@ -54,6 +54,3 @@
 </table>
 
 ---
-
-<img src="https://raw.githubusercontent.com/Shehara0/Shehara0/output/github-contribution-grid-snake.svg" alt="snake animation">
-

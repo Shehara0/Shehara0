@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shehara Siriwardana</h1>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=00BCD4&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehara+Siriwardana" alt="Typing SVG">
+  </a>
+</p>
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shehara0&label=Profile%20views&color=0e75b6&style=flat" alt="shehara0" /> </p>

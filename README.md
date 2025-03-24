@@ -55,10 +55,5 @@
 
 ---
 
----
-## 🐍 A Snake Eating My Contributions Graph
+<img src="https://raw.githubusercontent.com/Shehara0/Shehara0/output/github-contribution-grid-snake.svg" alt="snake animation">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shehara0/Shehara0/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
----

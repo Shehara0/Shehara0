@@ -13,7 +13,7 @@
 <tr border="none">
 <td width="100%" align="left">
 
-- 🌱 I’m currently learning **Mern and Spring boot api**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **sheharasiriwardana21@gmail.com**
 

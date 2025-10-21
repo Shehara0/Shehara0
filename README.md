@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=800&color=00BCD4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Shehara+Siriwardana;Full-Stack+Developer+%7C+MERN+Stack+Engineer;Passionate+about+Code,+UI,+and+Innovation" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=800&color=00BCD4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Shehara+Siriwardana;Full-Stack+Developer+%7C;Passionate+about+Code,+UI,+and+Innovation" alt="Typing SVG">
   </a>
 </p>
 
@@ -81,7 +81,6 @@ Here are some projects I’m proud of:
 <!-- 🎯 Fun Section -->
 ### 🎯 Fun & Interests
 🌍 Exploring new web tech trends  
-🎨 Designing minimalist UIs  
 📚 Reading about AI & Cloud Tech  
 ☕ Coding + Coffee = Happiness  
 
